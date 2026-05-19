@@ -33,4 +33,3 @@ The full NekoGPT version includes the complete experience with the paid features
 ## Links
 
 - Full version: [itch.io](https://inobushi3.itch.io/nekogptai-virtual-companion)
-- Free download: [GitHub Releases](https://github.com/inobushi3/nekogpt/releases)
