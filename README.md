@@ -20,7 +20,7 @@ The full NekoGPT version includes the complete experience with the paid features
 - Ollama local model setup for offline/local AI use.
 - Google AI provider support.
 - Voice conversation with local microphone transcription.
-- Kokoro and Neko Local TTS support.
+- Kokoro, Omnivoice and Neko Local TTS support.
 - Default personas.
 - Default Live2D companion experience.
 
